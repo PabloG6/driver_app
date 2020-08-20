@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "900644968942",
+    "firebase_url": "https://tutor-app-be790.firebaseio.com",
+    "project_id": "tutor-app-be790",
+    "storage_bucket": "tutor-app-be790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900644968942:android:c444d0f424e667f6ead6ff",
+        "android_client_info": {
+          "package_name": "com.example.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900644968942-19r5e68kqmf999d312gvolc94v6qv0ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlf-27eeE8azZj4cr_uYX22h5mNp3F3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900644968942-19r5e68kqmf999d312gvolc94v6qv0ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900644968942:android:22b5fd7135d91314ead6ff",
+        "android_client_info": {
+          "package_name": "com.example.drivingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900644968942-3b0akeoc9baob7k4gk2o1aho7f4bjua4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drivingapp",
+            "certificate_hash": "cf4156decabde1f8e819cc0f63c7d6eb2db25235"
+          }
+        },
+        {
+          "client_id": "900644968942-19r5e68kqmf999d312gvolc94v6qv0ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlf-27eeE8azZj4cr_uYX22h5mNp3F3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900644968942-19r5e68kqmf999d312gvolc94v6qv0ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900644968942:android:e20c23f0d9abdad4",
+        "android_client_info": {
+          "package_name": "com.momocorp.charihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900644968942-19r5e68kqmf999d312gvolc94v6qv0ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlf-27eeE8azZj4cr_uYX22h5mNp3F3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900644968942-19r5e68kqmf999d312gvolc94v6qv0ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
